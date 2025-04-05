@@ -1,0 +1,21 @@
+.page {
+    padding: 20px;
+  }
+  
+  .sticker-image {
+    width: 80%;
+    max-width: 600px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+  }
+  
+  .shop-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #50c356;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
