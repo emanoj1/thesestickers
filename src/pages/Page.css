@@ -81,4 +81,61 @@
     border-radius: 8px;
   }
   
+/* General container responsiveness */
+.page {
+    padding: 20px;
+  }
   
+  .about-content,
+  .policies-content {
+    padding: 0 10px;
+  }
+  
+  /* Navbar responsiveness */
+  .navbar {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  .navbar ul {
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px 0;
+  }
+  
+  /* Responsive tweaks */
+  @media (min-width: 600px) {
+    .navbar ul {
+      flex-direction: row;
+      gap: 20px;
+    }
+  
+    .about-content,
+    .policies-content {
+      padding: 0 30px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .logo-img {
+      height: 40px;
+    }
+  
+    .shop-link {
+      padding: 10px 16px;
+      font-size: 16px;
+    }
+  
+    .creator-photo {
+      width: 150px;
+      height: 150px;
+    }
+  
+    .about-content p,
+    .policies-content p,
+    .policies-content li {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+  }
+    
