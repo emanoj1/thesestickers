@@ -31,11 +31,13 @@ function About() {
         </p>
         <p>
           Based in Sydney, Australia, I’m all about spreading sticker love locally (for now)
-          but I welcome international buyers too! Oh, and when I’m not sticking stickers,
-          I’m podcasting, vlogging, writing, coding full-stack apps, and hitting the gym.
+          but I welcome international buyers too! I hope you find some stickers that speak to you and join me on this fun journey!
+          ---
         </p>
         <p>
-          I hope you find some stickers that speak to you and join me on this fun journey!
+          Oh, and when I’m not making and sticking stickers,
+          I’m podcasting, vlogging, writing, indie publishing, coding full-stack apps, cooking and hitting the gym.
+          You can check my ventures here: <a href="https://bento.me/emanoj" target="_blank" rel="noopener noreferrer">(bento.me/emanoj) </a>
         </p>
       </div>
     </div>
