@@ -31,5 +31,44 @@
   .about-content p {
     margin-bottom: 20px;
   }
+
+  .shop-policies-page {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+  }
+  
+  .policies-content {
+    max-width: 800px;
+    text-align: left;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #333;
+  }
+  
+  .policies-content h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  
+  .policies-content h3 {
+    font-size: 22px;
+    margin-top: 0;
+    color: #555;
+  }
+  
+  .policies-content ol {
+    padding-left: 20px;
+    margin-top: 15px;
+  }
+  
+  .policies-content li {
+    margin-bottom: 15px;
+  }
+  
+  .policies-content a {
+    color: #0077cc;
+    text-decoration: underline;
+  }
   
   
