@@ -50,6 +50,9 @@ npm install
 npm start
 
 ---
+
+## Other info
+
 This is a personal project and not currently open for contributions.
 
 ---

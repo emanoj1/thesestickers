@@ -12,7 +12,7 @@ function About() {
       />
 
       <div className="about-content">
-        <h2>Hi, I'm the creator of These Stickers!</h2>
+        <h2>Hi, I'm Manoj, the creator of These Stickers!</h2>
         <p>
           Growing up, I was all about drawing and collecting stickers—seriously, I had tons.
           But life took me down the path of studies, career, and family, and those hobbies
