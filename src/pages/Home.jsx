@@ -6,9 +6,8 @@ import './Page.css';
 function Home() {
   return (
     <div className="page home">
-      <h2>Welcome to My Sticker Shop!</h2>
+      <h2>Welcome! Explore my handmade sticker art, crafted with love!</h2>
       <img src={stickerImage} alt="Sticker Collection" className="sticker-image" />
-      <p>Explore my handmade sticker designs crafted with love.</p>
 
       <a
         href="https://ko-fi.com/emanoj/shop/thesestickers"
